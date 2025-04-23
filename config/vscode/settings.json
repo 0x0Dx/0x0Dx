@@ -1,0 +1,119 @@
+{
+  // UI Layout & Visibility
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
+  "workbench.editor.showTabs": "single",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "window.zoomLevel": 2,
+  "window.titleBarStyle": "custom",
+  "window.customTitleBarVisibility": "never",
+  "window.menuBarVisibility": "toggle",
+
+  // Theme & Appearance
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "vs-seti",
+
+  // Custom colors
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#000000",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+    "editorOverviewRuler.selectionHighlightForeground": "#0000",
+    "editorOverviewRuler.rangeHighlightForeground": "#0000",
+    "editorOverviewRuler.wordHighlightForeground": "#0000",
+    "editorOverviewRuler.bracketMatchForeground": "#0000",
+    "editorOverviewRuler.findMatchForeground": "#0000",
+    "editorOverviewRuler.modifiedForeground": "#0000",
+    "editorOverviewRuler.deletedForeground": "#0000",
+    "editorOverviewRuler.warningForeground": "#0000",
+    "editorOverviewRuler.addedForeground": "#0000",
+    "editorOverviewRuler.errorForeground": "#0000",
+    "editorOverviewRuler.infoForeground": "#0000",
+    "editorOverviewRuler.border": "#0000",
+
+    "editorSuggestWidget.selectedBackground": "#3A334B",
+    "sideBar.background": "#191521"
+  },
+
+  // Editor Font & Typeography
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.35,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+
+  // Editor Features & Behavior
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.colorDecorators": false,
+  "editor.codeLens": false,
+  "editor.matchBrackets": "never",
+  "editor.parameterHints.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.hover.enabled": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line",
+  "editor.multiCursorModifier": "ctrlCmd",
+
+  // Files & Save
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.autoSave": "afterDelay",
+
+  // Explorer & Sidebar
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.decorations.badges": false,
+
+  // Git integration
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+
+
+  // Indentation, Tabs & Whitespace
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderLineHighlight": "none",
+  "editor.showFoldingControls": "never",
+  "editor.guides.indentation": true,
+  "editor.lineNumbers": "relative",
+
+  // Scrollbars & Overview Ruler
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+
+  // Suggestions & Autocomplete
+  "emmet.triggerExpansionOnTab": true,
+  "editor.snippetSuggestions": "top",
+  "editor.tabCompletion": "on",
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.quickSuggestions": {
+    "other": "off",
+  },
+
+  // Tree & File Explorer
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.tree.indent": 8,
+
+  // Misc Extensions
+  "extensions.ignoreRecommendations": false,
+
+  // Misc
+  "breadcrumbs.enabled": false,
+  "editor.occurrencesHighlight": "off",
+  "editor.selectionHighlight": true,
+}
