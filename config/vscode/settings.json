@@ -105,7 +105,7 @@
   "editor.tabCompletion": "on",
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
-    "other": "off",
+    "other": "on",
   },
 
   // Tree & File Explorer
