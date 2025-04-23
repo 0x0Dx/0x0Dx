@@ -85,7 +85,7 @@
   "scm.diffDecorations": "none",
 
   // Indentation, Tabs & Whitespace
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.detectIndentation": false,
   "editor.renderWhitespace": "none",
   "editor.renderLineHighlight": "none",
