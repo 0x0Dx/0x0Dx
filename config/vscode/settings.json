@@ -68,7 +68,7 @@
   "editor.hover.enabled": true,
   "editor.cursorBlinking": "smooth",
   "editor.cursorStyle": "line",
-  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.multiCursorModifier": "alt",
 
   // Files & Save
   "files.trimTrailingWhitespace": true,
@@ -94,7 +94,7 @@
   "editor.lineNumbers": "relative",
 
   // Scrollbars & Overview Ruler
-  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.horizontal": "auto",
   "editor.scrollbar.vertical": "hidden",
   "editor.overviewRulerBorder": false,
   "editor.hideCursorInOverviewRuler": true,
