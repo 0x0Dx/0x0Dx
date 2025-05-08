@@ -89,7 +89,7 @@
   "editor.detectIndentation": false,
   "editor.renderWhitespace": "none",
   "editor.renderLineHighlight": "none",
-  "editor.showFoldingControls": "never",
+  "editor.showFoldingControls": "mouseover",
   "editor.guides.indentation": true,
   "editor.lineNumbers": "relative",
 
@@ -114,7 +114,7 @@
   "workbench.tree.indent": 8,
 
   // Misc Extensions
-  "extensions.ignoreRecommendations": false,
   "editor.occurrencesHighlight": "off",
-  "editor.selectionHighlight": true,
+"editor.selectionHighlight": true,
+"git.enableSmartCommit": true,
 }
