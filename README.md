@@ -61,7 +61,7 @@
 
 **Specializations:**
 - 3D game mechanics
-- Physics & collision systems  
+- Physics & collision systems
 - Multiplayer architecture
 - Shader programming
 
@@ -226,10 +226,10 @@ class DeveloperJourney:
                 "AWS Solutions Architect (planned)",
             ]
         }
-        
+
     def availability(self):
         return {
-            "open_to": ["Internships", "Freelance", 
+            "open_to": ["Internships", "Freelance",
                        "Open Source Collaboration"],
             "interests": ["Game Studios", "Tech Startups",
                          "Systems Programming Roles"]
@@ -241,50 +241,6 @@ class DeveloperJourney:
 </td>
 </tr>
 </table>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-<br><br>
-
----
-
-<br>
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br>
-<b>Total Repositories</b><br>
-[![Repo Count](https://img.shields.io/github/repo-count/0x0Dx?color=58A6FF&style=for-the-badge)](https://github.com/0x0Dx?tab=repositories)
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/graph.png" width="60"/><br>
-<b>GitHub Contributions</b><br>
-[![Contributions](https://komarev.com/ghpvc/?username=0x0Dx&color=58A6FF&style=for-the-badge)](https://github.com/0x0Dx)
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/star.png" width="60"/><br>
-<b>Stars Received</b><br>
-[![Stars](https://img.shields.io/github/stars/0x0Dx?style=for-the-badge&color=58A6FF)](https://github.com/0x0Dx/stargazers)
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/programming.png" width="60"/><br>
-<b>Top Languages</b><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0Dx&layout=compact&theme=github_dark&hide_border=true)](https://github.com/0x0Dx)
-</td>
-</tr>
-</table>
-
-</div>
-
-
-</div>
 
 <br><br>
 
