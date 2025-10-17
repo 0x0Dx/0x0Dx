@@ -1,18 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=0x0D&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
-
-<br>
-
-## 👨‍💻 High School Developer | Code Enthusiast | Game Dev Explorer
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Game+Development+Enthusiast+%F0%9F%8E%AE;System+Programming+Explorer+%F0%9F%A6%80;Always+Shipping+New+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=0x0D&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=gradient"/>
 
 </div>
 
-<br><br>
+<div align="center">
+  
+### 『 High School Developer × Code Architect × Game Dev 』
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Turning+coffee+into+code+since+high+school+%E2%98%95;Low-level+systems+%7C+High-level+dreams+%F0%9F%92%AD)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<br>
 
 ---
 
@@ -20,31 +26,54 @@
 
 <div align="center">
 
-## 🔥 Skills & Technologies
+## ⚡ Tech Arsenal
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔨 Languages
 
 <br>
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cs,c,cpp,rust" height="50" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,python" height="60"/><br>
+**Systems • Performance • Power**
 
 <br><br>
 
-### Web Development
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js" height="50" alt="web dev"/>
+### 🌐 Web Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,nodejs" height="60"/><br>
+**Modern • Fast • Scalable**
+
+</td>
+<td width="50%" align="center">
+
+### 🎮 Game Dev
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=unity,godot,blender" height="60"/><br>
+**Create • Play • Innovate**
 
 <br><br>
 
-### Game Development
-<img src="https://skillicons.dev/icons?i=unity,godot,blender" height="50" alt="game dev"/>
+### 🛠️ DevOps & Tools
 
-<br><br>
+<br>
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" height="50" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,github" height="60"/><br>
+**Automate • Deploy • Scale**
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br><br>
+<br>
 
 ---
 
@@ -52,24 +81,25 @@
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📈 Performance Metrics
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0x0Dx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=fff&ring_color=6366F1" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=0x0Dx&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0x0Dx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=0x0Dx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=FF6B6B&dates=8B949E" />
 
 <br><br>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x0Dx&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=6366F1&point=F8D866&area_color=6366F1&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0Dx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x0Dx&custom_title=Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area_color=1F6FEB&area=true&hide_border=true&height=250" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app?username=0x0Dx&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app?username=0x0Dx&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
-<br><br>
+<br>
 
 ---
 
@@ -77,22 +107,66 @@
 
 <div align="center">
 
-## 🎯 Current Focus
+## 🎯 Mission Control
 
 <br>
 
-```javascript
-const currentlyWorking = {
-    learning: ["Rust 🦀", "Advanced C++", "Game Engine Architecture"],
-    building: ["Unity Games", "Web Apps with Next.js", "Open Source Tools"],
-    exploring: ["Systems Programming", "3D Graphics", "AI/ML"],
-    goals: ["Contribute to major OSS projects", "Ship commercial game", "Master low-level programming"]
-};
+<table align="center">
+<tr>
+<td width="50%">
+
+```rust
+// Currently Compiling...
+fn main() {
+    let learning = vec![
+        "🦀 Rust",
+        "⚡ Advanced C++", 
+        "🎮 Game Engines",
+        "🤖 AI/ML"
+    ];
+    
+    let building = vec![
+        "Unity Games",
+        "Web3 dApps",
+        "CLI Tools",
+        "Open Source"
+    ];
+    
+    println!("Status: Shipping 🚀");
+}
 ```
 
+</td>
+<td width="50%">
+
+```python
+# Achievement Unlocked 🏆
+class Developer:
+    def __init__(self):
+        self.name = "0x0D"
+        self.level = "Rising Star"
+        self.exp_points = 9999
+        self.next_milestone = [
+            "Launch commercial game",
+            "10k+ GitHub stars",
+            "Major OSS contribution",
+            "Master systems programming"
+        ]
+    
+    def grind(self):
+        while True:
+            self.code()
+            self.learn()
+            self.build()
+```
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<br><br>
+<br>
 
 ---
 
@@ -100,21 +174,40 @@ const currentlyWorking = {
 
 <div align="center">
 
-## 🌐 Let's Connect
+## 🌍 Connect & Collaborate
 
 <br>
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000000)](https://www.reddit.com/user/0x0D_/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/0x0Dx)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/0x0Dx)
+<a href="https://www.reddit.com/user/0x0D_/">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=101010" height="35"/>
+</a>
+<a href="https://twitter.com/0x0Dx">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" height="35"/>
+</a>
+<a href="https://dev.to/0x0Dx">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" height="35"/>
+</a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=0x0Dx&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+### 💬 Open to collaborations • Always learning • Let's build something epic
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=0x0Dx&color=58A6FF&style=for-the-badge&label=VISITORS)
+![](https://img.shields.io/github/followers/0x0Dx?style=for-the-badge&color=58A6FF&labelColor=101010&logo=github)
 
 </div>
 
 <br><br>
+
+<div align="center">
+
+### ⭐ "Talk is cheap. Show me the code." - Linus Torvalds
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
