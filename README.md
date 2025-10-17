@@ -22,10 +22,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<br><br>
-
----
-
 <br>
 
 ## 💼 Professional Skillset
@@ -98,11 +94,7 @@
 
 </div>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-<br><br>
+<br>
 
 ---
 
@@ -144,11 +136,7 @@
 
 </div>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-<br><br>
+<br>
 
 ---
 
@@ -242,11 +230,7 @@ class DeveloperJourney:
 </tr>
 </table>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-<br><br>
+<br>
 
 ---
 
@@ -261,7 +245,7 @@ class DeveloperJourney:
 <a href="https://www.reddit.com/user/0x0D_/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=101010" height="40"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:0x0d.arrest526@passinbox.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="40"/>
 </a>
 <a href="https://github.com/0x0Dx">
