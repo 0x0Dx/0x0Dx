@@ -1,52 +1,121 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=0x0D&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+
+<br>
+
+## 👨‍💻 High School Developer | Code Enthusiast | Game Dev Explorer
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Game+Development+Enthusiast+%F0%9F%8E%AE;System+Programming+Explorer+%F0%9F%A6%80;Always+Shipping+New+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-###
+<br><br>
+
+---
+
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+## 🔥 Skills & Technologies
+
+<br>
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cs,c,cpp,rust" height="50" alt="languages"/>
+
+<br><br>
+
+### Web Development
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js" height="50" alt="web dev"/>
+
+<br><br>
+
+### Game Development
+<img src="https://skillicons.dev/icons?i=unity,godot,blender" height="50" alt="game dev"/>
+
+<br><br>
+
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" height="50" alt="tools"/>
+
 </div>
 
-###
+<br><br>
+
+---
+
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+## 📊 GitHub Statistics
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0x0Dx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=fff&ring_color=6366F1" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=0x0Dx&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x0Dx&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=6366F1&point=F8D866&area_color=6366F1&area=true&hide_border=true" alt="Contribution Graph"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app?username=0x0Dx&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
 </div>
 
-###
+<br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+<br>
+
+<div align="center">
+
+## 🎯 Current Focus
+
+<br>
+
+```javascript
+const currentlyWorking = {
+    learning: ["Rust 🦀", "Advanced C++", "Game Engine Architecture"],
+    building: ["Unity Games", "Web Apps with Next.js", "Open Source Tools"],
+    exploring: ["Systems Programming", "3D Graphics", "AI/ML"],
+    goals: ["Contribute to major OSS projects", "Ship commercial game", "Master low-level programming"]
+};
+```
+
+</div>
+
+<br><br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+<br>
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000000)](https://www.reddit.com/user/0x0D_/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/0x0Dx)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/0x0Dx)
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=0x0Dx&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
