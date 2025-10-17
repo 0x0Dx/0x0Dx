@@ -254,34 +254,35 @@ class DeveloperJourney:
 
 ## 🏆 Achievements & Milestones
 
-<br>
-
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br>
-<b>10,000+</b><br>
-Lines of Production Code
+<b>Total Repositories</b><br>
+[![Repo Count](https://img.shields.io/github/repo-count/0x0Dx?color=58A6FF&style=for-the-badge)](https://github.com/0x0Dx?tab=repositories)
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/graph.png" width="60"/><br>
-<b>500+</b><br>
-GitHub Contributions
+<b>GitHub Contributions</b><br>
+[![Contributions](https://komarev.com/ghpvc/?username=0x0Dx&color=58A6FF&style=for-the-badge)](https://github.com/0x0Dx)
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/><br>
-<b>5+</b><br>
-Completed Projects
+<img src="https://img.icons8.com/color/96/000000/star.png" width="60"/><br>
+<b>Stars Received</b><br>
+[![Stars](https://img.shields.io/github/stars/0x0Dx?style=for-the-badge&color=58A6FF)](https://github.com/0x0Dx/stargazers)
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/programming.png" width="60"/><br>
-<b>8+</b><br>
-Tech Stack Mastery
+<b>Top Languages</b><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0Dx&layout=compact&theme=github_dark&hide_border=true)](https://github.com/0x0Dx)
 </td>
 </tr>
 </table>
+
+</div>
+
 
 </div>
 
